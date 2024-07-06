@@ -1,4 +1,11 @@
-## Hi there 👋
+## Greetings!
+
+I'm @Wholesome100, a computer scientist and aspiring author. I am:
+- Interested in Systems Programming along with Web Development
+- Enamored with the Rust Programming Language
+- Theoretical Computer Science
+- The author of https://www.wioletaoftheflowers.com/
+- Still grinding Leetcode 🫠
 
 <!--
 **Wholesome100/Wholesome100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
