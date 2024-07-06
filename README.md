@@ -1,9 +1,9 @@
 ## Greetings!
 
-I'm @Wholesome100, a computer scientist and aspiring author. I am:
+I'm @Wholesome100, a computer scientist. I am:
 - Interested in Systems Programming along with Web Development
 - Enamored with the Rust Programming Language
-- Theoretical Computer Science
+- Intrigued by Theoretical Computer Science
 - The author of https://www.wioletaoftheflowers.com/
 - Still grinding Leetcode 🫠
 
