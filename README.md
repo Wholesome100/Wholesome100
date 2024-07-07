@@ -5,10 +5,12 @@ I'm @Wholesome100, a computer scientist. I am:
 - Enamored with the Rust Programming Language
 - Intrigued by Theoretical Computer Science
 - The author of https://www.wioletaoftheflowers.com/
-- Still grinding Leetcode 🫠
+
 
 <!--
 **Wholesome100/Wholesome100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- Still grinding Leetcode 🫠
 
 Here are some ideas to get you started:
 
