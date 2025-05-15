@@ -1,9 +1,9 @@
-## Greetings!
+## Hello!
 
 I'm @Wholesome100, a computer scientist. I am:
-- Interested in Systems Programming along with Web Development
-- Enamored with the Rust Programming Language
-- Intrigued by Theoretical Computer Science
+- Interested in Game Development and Design along with Web Development
+- Enamored with Godot and the Rust Programming Language
+- Wanting a job in the games industry
 - The author of https://www.wioletaoftheflowers.com/
 
 
