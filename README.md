@@ -1,9 +1,8 @@
 ## Hello!
 
 I'm @Wholesome100, a computer scientist. I am:
-- Interested in Game Development and Design along with Web Development
-- Enamored with Godot and the Rust Programming Language
-- Wanting a job in the games industry
+- Interested in Game Development and Design (Godot/Fyrox) along with Web Development (Sveltekit)
+- Gunning for a job in the games industry
 - The author of https://www.wioletaoftheflowers.com/
 
 
