@@ -1,13 +1,12 @@
-<h1 align="center">Hello! Welcome to Wholesome100's GitHub Page~</h1>
+<h1 align="center">Hello! Welcome to Wholesome100's GitHub Page!</h1>
 
----
 ## About me
 I'm Wholesome100, a computer scientist and graduate student at Florida Polytechnic Univeristy. I am:
 - Open for employment
 - Interested in Game Development and Design (Godot/Fyrox) along with Web Development (Sveltekit)
 - Gunning for a job in the games industry
 
----
+
 ## Technology and Tools
 
 <p align="center">
@@ -42,7 +41,7 @@ C, C++, Java, MATLAB, R, and MIPS Assembly.
 ### What I'm Interested in Learning
 Unreal Engine and Go.
 
----
+
 ## Domains
 ### Web Development
 I have made a couple of sites using Sveltekit and Next.js, with Vercel being the main hosting service that I used. Firebase was used on the backend to store data in a NoSQL manner, and an example Sveltekit site I've made can be seen with Wioleta of the Flowers in the authorship section.
@@ -54,7 +53,7 @@ I have made a couple games under the Salmonware banner with my partner [nick-one
 
 Give them a try!
 
----
+
 ## Authorship
 Outside of coding, I have done narrative writing in a couple of online spaces:
 - [Wioleta of the Flowers](https://www.wioletaoftheflowers.com/) is a ~40 thousand word novel that I wrote back in 2023, which centers around the titular character, Wioleta, as she reckons with a dire purpose.
