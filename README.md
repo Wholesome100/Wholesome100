@@ -8,29 +8,26 @@ I'm Wholesome100, a computer scientist and graduate student at Florida Polytechn
 
 ## Technology and Tools
 
-### What I'm Using Right Now
+<h3 align="right">What I'm Using Right Now</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
   <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot Engine"/>
 </p>
-**Python**, **Rust**, and **Godot**.
 
-### What I'm Learning Right Now
+<h3 align="right">What I'm Learning Right Now</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
 </p>
-**Blender** and **C#** (for use with Godot Engine).
 
-### What I've Used Before
+<h3 align="right">What I've Used Before</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="Svelte"/>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
 </p>
-**Sveltekit** and **Next.js**.
 
-### What I've Used Before in an Academic Setting
+<h3 align="right">What I've Used Before in an Academic Setting</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -38,14 +35,12 @@ I'm Wholesome100, a computer scientist and graduate student at Florida Polytechn
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="Matlab"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
 </p>
-**C**, **C++**, **Java**, **MATLAB**, **R**, and **MIPS Assembly**.
 
-### What I'm Interested in Learning
+<h3 align="right">What I'm Interested in Learning</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
 </p>
-**Unreal Engine** and **Go**.
 
 ## Domains
 ### Web Development
