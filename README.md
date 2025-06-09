@@ -37,8 +37,11 @@ I'm Wholesome100, a computer scientist and graduate student at Florida Polytechn
 I have made a couple of sites using Sveltekit and Next.js, with Vercel being the main hosting service that I used. Firebase was used on the backend to store data in a NoSQL manner, and an example Sveltekit site I've made can be seen with Wioleta of the Flowers in the authorship section.
 
 ### Game Development
-I have made a couple games under the Salmonware banner with my partner nick-onetap. They are:
-<iframe frameborder="0" src="https://itch.io/embed/3105503" width="552" height="167"><a href="https://salmonware.itch.io/raincatcher">Raincatcher by Salmonware</a></iframe>
+I have made a couple games under the Salmonware banner with my partner [nick-onetap](https://github.com/nick-onetap). They are:
+1. [Raincatcher](https://salmonware.itch.io/raincatcher): A comfy game about catching frogs in the rain
+2. [Yumpers](https://salmonware.itch.io/yumpers): A 3D platformer with a techno-flair
+
+Give them a try!
 
 
 ## Authorship
