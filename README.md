@@ -1,10 +1,27 @@
-## Hello!
+# Hello! Welcome to Wholesome100's GitHub Page
 
+## About me
 I'm @Wholesome100, a computer scientist. I am:
 - Interested in Game Development and Design (Godot/Fyrox) along with Web Development (Sveltekit)
 - Gunning for a job in the games industry
 - The author of https://www.wioletaoftheflowers.com/
 
+## Technology and Tools
+### What I'm Using Right Now
+
+### What I've Used Before
+
+### What I'm Interested in Learning
+
+
+## Domains
+### Web Development
+
+### Game Development
+
+
+
+#### Authorship
 
 <!--
 **Wholesome100/Wholesome100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
