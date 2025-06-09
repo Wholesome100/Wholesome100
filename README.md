@@ -38,7 +38,7 @@ I have made a couple of sites using Sveltekit and Next.js, with Vercel being the
 
 ### Game Development
 I have made a couple games under the Salmonware banner with my partner nick-onetap. They are:
-<iframe frameborder="0" src="https://itch.io/embed-upload/12433117?color=000000" allowfullscreen="" width="640" height="380"><a href="https://salmonware.itch.io/raincatcher">Play Raincatcher on itch.io</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed/3105503" width="552" height="167"><a href="https://salmonware.itch.io/raincatcher">Raincatcher by Salmonware</a></iframe>
 
 
 ## Authorship
