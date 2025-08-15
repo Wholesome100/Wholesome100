@@ -8,7 +8,7 @@ I'm a Computer Science graduate student with a passion for game development and 
 
 | Languages | Engines & Frameworks | Tools & Concepts |
 | :--- | :--- | :--- |
-| C++, C#, Rust, Python | Godot, Unity, Sveltekit| Git, Blender|
+| Python, Typescript, C++, Rust, Go | Godot, Unreal, Sveltekit| Git, Blender|
 
 ---
 
