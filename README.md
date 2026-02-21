@@ -1,23 +1,20 @@
-### Hello! I'm Matthew R.
+# Hello! I'm Matthew R.
 
-I'm a Computer Science graduate student with a passion for game development and systems engineering. I'm currently seeking entry-level roles in the games industry where I can apply my skills to help build creative and engaging experiences.
+I'm a Software Engineer with a master's degree in Computer Science, with a passion for game development and systems engineering.
+
+I am open to employment opportunities within the United States, where I am authorized to work, and where I am comfortable with any work format (on-site, hybrid, remote, etc.)
+
+I have prior experience as a Data Engineer, and I am looking to pivot to software engineering roles, where I can utilize my knowledge of languages such as C++, C#, Rust and Python.
 
 ---
 
-### Technology and Tools
+### Technology and Tools 
 
-| Languages | Engines & Frameworks | Tools & Concepts |
+| Languages | Engines & Frameworks | Infrastructure
 | :--- | :--- | :--- |
-| Python, Typescript, C++, Rust | Godot, Unreal, NextJS| Git, Blender|
+| Python, Rust, C#, C++, Typescript, R, SQL | Godot, Unreal, Bevy, NextJS, Sveltekit, ASP.NET Core | Docker, Git, GitHub Actions, GitHub Projects, Azure, Google Cloud
 
 ---
-
-### Featured Projects
-
-Here are some of the projects I'm most proud of.
-*   **[Yumpers](https://salmonware.itch.io/yumpers):** A 3D parkour platformer in Godot focused on fluid player movement and interactive level design.
-*   **[DBuilder](https://idbsrs.vercel.app/):** An AI-powered web app that translates natural language into database designs via a custom API.
-
----
-
-*   📫 I am open to employment opportunities.
+### Last but not least:
+* **Check out my writing site**: [Personifine](https://www.personifine.com/)
+* **Check out some of the games I've co-created:** [itch.io](https://salmonware.itch.io/)
