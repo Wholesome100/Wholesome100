@@ -1,6 +1,6 @@
 # Hello! I'm Matthew R.
 
-I'm a Software Engineer with a master's degree in Computer Science, with a passion for game development and systems engineering.
+I'm a Software Engineer with a master's degree in Computer Science, and a passion for game development and systems engineering.
 
 I am open to employment opportunities within the United States, where I am authorized to work, and where I am comfortable with any work format (on-site, hybrid, remote, etc.)
 
