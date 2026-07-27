@@ -12,7 +12,7 @@ I have prior experience as a Data Engineer, and I am looking to pivot to softwar
 
 | Languages | Engines & Frameworks | Infrastructure
 | :--- | :--- | :--- |
-| Python, Rust, C#, C++, Typescript, R, SQL | Godot, Unreal, Bevy, NextJS, Sveltekit, ASP.NET Core | Docker, Git, GitHub Actions, GitHub Projects, Azure, Google Cloud
+| Python, Rust, C#, C++, R, SQL | Godot, Unreal, Bevy, Axum, ASP.NET Core | Docker, Git, GitHub Actions, GitHub Projects, Azure, Google Cloud
 
 ---
 ### Last but not least:
